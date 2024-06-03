@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rbtgorman
-- 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on projects and home automation tools
 - 📫 I am able to be reached via email at rbtgorman@gmail.com
 
