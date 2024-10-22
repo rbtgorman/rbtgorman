@@ -2,7 +2,7 @@
 
   # Hello!, My name is Robert Gorman  👋
 
-I am a freelance Software Engineer looking for a professional role.
+I am a freelance web developer looking for a professional role within the industry. Please check out my projects on my profile.
 
 ## Connect With Me
 
