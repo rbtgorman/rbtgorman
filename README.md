@@ -12,7 +12,8 @@ I am a freelance web developer looking for a professional role within the indust
 </div>
     
 ## About Me
-- 👩🏽‍💻 I'm currently enrolled in my Master of Business Analytics program at Rutgers University - Camden
+- 👩🏽‍💻 I'm currently enrolled in the Master of Business Analytics program at Rutgers University - Camden.
+- ✉️ Check out [My Programming Portfolio](https://rbtgorman.github.io/resume-site)
 - 🖥️ In this program, I am learning techniques for extracting, collecting, cleaning, describing, segmenting, modeling, predicting,
       and reporting data using SQL, SPSS, R & Excel.
 - 🌎 I'm based in Philadelphia, PA
