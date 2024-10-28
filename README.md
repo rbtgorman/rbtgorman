@@ -7,7 +7,7 @@ I am a freelance web application developer looking for a professional role withi
 ## Connect With Me
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/robert-gorman-638852149/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
     
