@@ -2,7 +2,8 @@
 
   # Hello!, My name is Robert Gorman  👋
 
-I am a freelance web application developer looking for a professional role within the industry. Please check out my projects on my profile.
+I am an IT professional looking to learn more about Data Analytics and Web Programming through the MS of Business Analytics program at Rutgers-Camden University along with personal projects. I am an AWS Certified Cloud Practitioner, I primarily use Python, R, MySQL, and React for personal projects and in my Masters program. My GitHub profile can be found by visiting the following link: Robert Gorman's GitHub.
+
 
 ## Connect With Me
 
@@ -25,6 +26,7 @@ I am a freelance web application developer looking for a professional role withi
 ## Programming Languages
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue" alt="React Badge"/>
   <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP Badge"/>
   <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
