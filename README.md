@@ -20,7 +20,7 @@ I am an IT professional looking to learn more about Data Analytics and Web Progr
       and reporting data using Python, SQL, SPSS, R & Excel.
 - 🌎 I'm based in Philadelphia, PA
 - 📫 How to reach me: rbtgorman@gmail.com
-- 🥊 Fun fact: I like to play and watch Hockey and Soccer in my free time. Along with spending time outdoors
+- 🥊 Fun fact: I like to watch all sports but only still play Ice Hockey and Soccer in my free time. Along with spending time outdoors
   
 
 
