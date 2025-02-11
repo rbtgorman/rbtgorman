@@ -2,7 +2,8 @@
 
   # Hello!, My name is Robert Gorman  👋
 
-I am an IT professional looking to learn more about Data Analytics and Web Programming through the MS of Business Analytics program at Rutgers-Camden University along with personal projects. I am an AWS Certified Cloud Practitioner, I primarily use Python, R, MySQL, and React for personal projects and in my Masters program. My GitHub profile can be found by visiting the following link: Robert Gorman's GitHub.
+I am an IT professional looking to learn more about Data Analytics and Web Programming through the MS of Business Analytics program at Rutgers-Camden University along with personal projects. I am an AWS Certified Cloud Practitioner, I primarily use Python, R, MySQL, and React for personal projects and in my Masters program. My GitHub profile can be found by visiting the following link: [Robert Gorman's GitHub](https://github.com/YourGitHubUsername)
+
 
 
 ## Connect With Me
