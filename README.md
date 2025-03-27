@@ -17,7 +17,7 @@ I am an IT professional looking to learn more about Data Analytics and Web Progr
 - 👩🏽‍💻 I'm currently enrolled in the Master of Business Analytics program at Rutgers University - Camden.
 - ✉️ Check out [My Programming Portfolio](https://rbtgorman.github.io/resume-site)
 - 🖥️ In this program, I am learning techniques for extracting, collecting, cleaning, describing, segmenting, modeling, predicting,
-      and reporting data using Python, SQL, SPSS, R & Excel.
+      and reporting data using Python, SQL, PHP, Tableau, R & Excel.
 - 🌎 I'm based in Philadelphia, PA
 - 📫 How to reach me: rbtgorman@gmail.com
   
