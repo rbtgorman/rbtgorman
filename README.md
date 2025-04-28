@@ -40,7 +40,7 @@ I am an IT professional looking to learn more about Data Analytics and Web Progr
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=React&logoColor=blue" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=PHP&logoColor=white" alt="Twitter Badge"/>
   <img src="https://img.shields.io/badge/JQuery-blue?style=for-the-badge&logo=javascript&logoColor=black" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=javascript&logoColor=black" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=black" alt="Twitter Badge"/>
 
 </div>
 
