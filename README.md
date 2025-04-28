@@ -32,7 +32,7 @@ I am an IT professional looking to learn more about Data Analytics and Web Progr
   <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
 </div>
 
-## Frameworks 
+## Frameworks and Tools
 <div id="badges">
   <img src="https://img.shields.io/badge/Node.JS-grey?style=for-the-badge&logo=Node.JS&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=Netlify&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,6 +40,8 @@ I am an IT professional looking to learn more about Data Analytics and Web Progr
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=React&logoColor=blue" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=PHP&logoColor=white" alt="Twitter Badge"/>
   <img src="https://img.shields.io/badge/JQuery-blue?style=for-the-badge&logo=javascript&logoColor=black" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=javascript&logoColor=black" alt="Twitter Badge"/>
+
 </div>
 
 ## DevOps
