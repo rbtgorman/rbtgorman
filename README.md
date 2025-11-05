@@ -2,7 +2,7 @@
 
   # Hello!, My name is Robert Gorman  👋
 
-I am an IT professional looking to learn more about Data Analytics and Web Programming through the MS of Business Analytics program at Rutgers-Camden University along with personal projects. I am an AWS Certified Cloud Practitioner, I primarily use Python, R, MySQL, PHP, and React for personal projects and in my Masters program. I am a huge Philly sports fan and play Ice Hockey and Soccer recreationally.
+I am an IT professional looking to learn more about Data Analytics and Web Programming through the MS of Business Analytics program at Rutgers-Camden University along with personal projects. I am an AWS Certified Cloud Practitioner. I primarily use Python, R, MySQL, PHP, and React for personal projects and in my Masters program. I am a huge Philly sports fan and play Ice Hockey and Soccer recreationally.
 
 
 
