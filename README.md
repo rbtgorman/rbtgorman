@@ -1,59 +1,85 @@
+# Hello! My name is Robert Gorman 👋
 
+## System Administrator | Active Directory | PowerShell Automation | Data Analytics
 
-  # Hello!, My name is Robert Gorman  👋
+I'm an IT professional building hands-on Windows Server and Active Directory administration skills for enterprise System Administrator roles, with a background in data analytics and web development from my MS in Business Analytics at Rutgers University.
 
-I am an IT professional looking to learn more about Data Analytics and Web Programming through the MS of Business Analytics program at Rutgers-Camden University along with personal projects. I am an AWS Certified Cloud Practitioner. I primarily use Python, R, MySQL, PHP, and React for personal projects and in my Masters program. I am a huge Philly sports fan and play Ice Hockey and Soccer recreationally.
+## 🔨 Featured Project: Active Directory Lab Portfolio
 
+**[View Full Portfolio →](https://github.com/rbtgorman/active-directory-lab-portfolio)**
 
+Hands-on Windows Server and Active Directory lab demonstrating enterprise IT automation and administration:
+
+- **[Bulk AD User Creation](https://github.com/rbtgorman/active-directory-lab-portfolio/tree/main/gap6-powershell/bulk-user-creation)** - PowerShell automation reducing user provisioning from 10+ minutes to seconds
+- **[Password Reset Automation](https://github.com/rbtgorman/active-directory-lab-portfolio/tree/main/gap6-powershell/password-reset-tool)** - Help desk tool reducing ticket resolution time by 75%
+
+**Tech Stack:** Windows Server 2022, Active Directory, PowerShell, KVM virtualization
 
 ## Connect With Me
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/robert-gorman-638852149/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
     
 ## About Me
-- 👩🏽‍💻 I'm currently enrolled in the Master of Business Analytics program at Rutgers University - Camden.
+- 🖥️ **Currently:** Building System Administrator skills with Active Directory, PowerShell automation, and Windows Server administration
+- 👨‍💻 **Background:** MS in Business Analytics from Rutgers University - Camden
+- 🔧 **Focus Areas:** Windows Server/AD administration, PowerShell scripting, help desk automation, endpoint management
+- 📊 **Also Skilled In:** Data Analytics, Python, R, SQL, Tableau, web development
 - ✉️ Check out [My Programming Portfolio](https://rbtgorman.github.io/resume-site)
-- 🖥️ In this program, I am learning techniques for extracting, collecting, cleaning, describing, segmenting, modeling, predicting,
-      and reporting data using Python, SQL, SPSS, Tableau, R & Excel.
-- 🌎 I'm based in Philadelphia, PA
-- 📫 How to reach me: rbtgorman@gmail.com
-  
+- 🌎 Based in Philadelphia, PA
+- 📫 Contact: rbtgorman@gmail.com
 
+## Current Skills & Technologies
 
-## Programming Languages
+### System Administration & Infrastructure
 <div id="badges">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Windows Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Active Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+### Programming & Scripting
+<div id="badges">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP Badge"/>
-  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue" alt="React"/>
+  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </div>
 
-## Frameworks and Tools
+### Data Analytics & Frameworks
 <div id="badges">
-  <img src="https://img.shields.io/badge/Node.JS-grey?style=for-the-badge&logo=Node.JS&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=Netlify&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/TAILWIND CSS-Teal?style=for-the-badge&logo=PHP&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=React&logoColor=blue" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=PHP&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/JQuery-blue?style=for-the-badge&logo=javascript&logoColor=black" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=black" alt="Twitter Badge"/>
-
+  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Node.JS-grey?style=for-the-badge&logo=Node.JS&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TAILWIND CSS-Teal?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
 
-## DevOps
+### DevOps & Tools
 <div id="badges">
-  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Node.JS&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Google Cloud Platform (GCP)-blue?style=for-the-badge&logo=Netlify&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=Netlify&logoColor=white" alt="LinkedIn Badge"/>
-
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Google Cloud Platform-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/KVM-black?style=for-the-badge&logo=linux&logoColor=white" alt="KVM"/>
 </div>
 
+## Portfolio Highlights
+
+### 🖥️ [Active Directory Lab Portfolio](https://github.com/rbtgorman/active-directory-lab-portfolio)
+Enterprise Windows Server administration and PowerShell automation projects with real-world business impact
+
+### 📊 [Programming & Analytics Portfolio](https://rbtgorman.github.io/resume-site)
+Data analytics, web development, and business intelligence projects
+
+---
+
+**Currently seeking System Administrator roles** | Open to collaboration on Windows Server, Active Directory, and PowerShell automation projects
 
 <!---
 rbtgorman/rbtgorman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
