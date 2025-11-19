@@ -24,7 +24,7 @@ Hands-on Windows Server and Active Directory lab demonstrating enterprise IT aut
     
 ## About Me
 - 🖥️ **Currently:** Building System Administrator skills with Active Directory, PowerShell automation, and Windows Server administration
-- 👨‍💻 **Background:** MS in Business Analytics from Rutgers University - Camden
+- 👨‍💻 **Background:** MS in Business Analytics (Specialization in FinTech) from Rutgers University - Camden
 - 🔧 **Focus Areas:** Windows Server/AD administration, PowerShell scripting, help desk automation, endpoint management
 - 📊 **Also Skilled In:** Data Analytics, Python, R, SQL, Tableau, web development
 - ✉️ Check out [My Programming Portfolio](https://rbtgorman.github.io/resume-site)
