@@ -4,17 +4,30 @@
 
 I'm an IT professional building hands-on Windows Server and Active Directory administration skills for enterprise System Administrator roles, with a background in data analytics and web development from my MS in Business Analytics at Rutgers University.
 
-## 🔨 Featured Project: Active Directory Lab Portfolio
+## 🔨 Featured Projects
 
-**[View Full Portfolio →](https://github.com/rbtgorman/active-directory-lab-portfolio)**
-
-Hands-on Windows Server and Active Directory lab demonstrating enterprise IT automation and administration:
-
+### [Active Directory Lab Portfolio](https://github.com/rbtgorman/active-directory-lab-portfolio) 🚧 *In Progress*
+Hands-on Windows Server and Active Directory lab demonstrating enterprise IT automation and administration. Currently building additional projects covering endpoint deployment, imaging, enterprise printing, and network troubleshooting.
 - **[AD Health Check & Reporting](https://github.com/rbtgorman/active-directory-lab-portfolio/tree/main/gap6-powershell/ad-healthcheck-report)** - Automated AD auditing with HTML dashboard and CSV exports, reducing manual audit time by 85%
 - **[Bulk AD User Creation](https://github.com/rbtgorman/active-directory-lab-portfolio/tree/main/gap6-powershell/bulk-user-creation)** - PowerShell automation reducing user provisioning from 10+ minutes to seconds
 - **[Password Reset Automation](https://github.com/rbtgorman/active-directory-lab-portfolio/tree/main/gap6-powershell/password-reset-tool)** - Help desk tool reducing ticket resolution time by 75%
 
 **Tech Stack:** Windows Server 2022, Active Directory, PowerShell, KVM virtualization
+
+### [ENZ Group NJ Business Website](https://www.enzgroupnj.com/)
+Live production website for a local business, hosted and maintained on Google Cloud Platform with custom domain configuration.
+
+**Tech Stack:** Google Cloud Platform, Cloud DNS, Google Cloud Storage
+
+### [ELO Ratings Tableau Dashboard](https://github.com/rbtgorman/elo_ratings_tableau)
+Interactive data visualization analyzing ELO ratings for European football clubs and countries over the last decade.
+
+**Tech Stack:** Tableau, Data Analytics
+
+### [Personal Portfolio Website](https://rbtgorman.github.io/resume-site/)
+Professional portfolio site showcasing projects, skills, and experience, hosted through GitHub Pages.
+
+**Tech Stack:** HTML, CSS, JavaScript, GitHub Pages
 
 ## Connect With Me
 <div id="badges">
@@ -68,14 +81,6 @@ Hands-on Windows Server and Active Directory lab demonstrating enterprise IT aut
   <img src="https://img.shields.io/badge/Google Cloud Platform-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/KVM-black?style=for-the-badge&logo=linux&logoColor=white" alt="KVM"/>
 </div>
-
-## Portfolio Highlights
-
-### 🖥️ [Active Directory Lab Portfolio](https://github.com/rbtgorman/active-directory-lab-portfolio)
-Enterprise Windows Server administration and PowerShell automation projects with real-world business impact
-
-### 📊 [Programming & Analytics Portfolio](https://rbtgorman.github.io/resume-site)
-Data analytics, web development, and business intelligence projects
 
 ---
 
