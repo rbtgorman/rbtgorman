@@ -10,6 +10,7 @@ I'm an IT professional building hands-on Windows Server and Active Directory adm
 
 Hands-on Windows Server and Active Directory lab demonstrating enterprise IT automation and administration:
 
+- **[AD Health Check & Reporting](https://github.com/rbtgorman/active-directory-lab-portfolio/tree/main/gap6-powershell/ad-healthcheck-report)** - Automated AD auditing with HTML dashboard and CSV exports, reducing manual audit time by 85%
 - **[Bulk AD User Creation](https://github.com/rbtgorman/active-directory-lab-portfolio/tree/main/gap6-powershell/bulk-user-creation)** - PowerShell automation reducing user provisioning from 10+ minutes to seconds
 - **[Password Reset Automation](https://github.com/rbtgorman/active-directory-lab-portfolio/tree/main/gap6-powershell/password-reset-tool)** - Help desk tool reducing ticket resolution time by 75%
 
