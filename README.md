@@ -2,7 +2,7 @@
 
 ## System Administrator | Active Directory | PowerShell Automation | Data Analytics
 
-I'm an IT professional building hands-on Windows Server and Active Directory administration skills for enterprise System Administrator roles, with a background in data analytics and web development from my MS in Business Analytics at Rutgers University.
+I'm an IT professional with a background in web application development, along with data analytics from my MS in Business Analytics at Rutgers University. I am building hands-on Windows Server and Active Directory administration skills for enterprise System Administrator roles, along with using software tools like Tableau, Python, and R to perform data analysis.
 
 ## 🔨 Featured Projects
 
