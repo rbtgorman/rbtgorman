@@ -4,9 +4,9 @@
 
 I'm an IT professional with a background in web application development, along with data analytics from my MS in Business Analytics at Rutgers University. I am building hands-on Windows Server and Active Directory administration skills for enterprise System Administrator roles, along with using software tools like Tableau, Python, and R to perform data analysis in personal projects.
 
-## 🔨 Featured Projects
+##  Projects
 
-### [Active Directory Lab Portfolio](https://github.com/rbtgorman/active-directory-lab-portfolio) 🚧 *In Progress*
+### [Active Directory Lab Portfolio](https://github.com/rbtgorman/active-directory-lab-portfolio)
 Hands-on Windows Server and Active Directory lab demonstrating enterprise IT automation and administration. Currently building additional projects covering endpoint deployment, imaging, enterprise printing, and network troubleshooting.
 - **[AD Health Check & Reporting](https://github.com/rbtgorman/active-directory-lab-portfolio/tree/main/gap6-powershell/ad-healthcheck-report)** - Automated AD auditing with HTML dashboard and CSV exports, reducing manual audit time by 85%
 - **[Bulk AD User Creation](https://github.com/rbtgorman/active-directory-lab-portfolio/tree/main/gap6-powershell/bulk-user-creation)** - PowerShell automation reducing user provisioning from 10+ minutes to seconds
