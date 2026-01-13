@@ -4,6 +4,8 @@
 
 I'm an IT professional with a background in web application development, along with data analytics from my MS in Business Analytics at Rutgers University. I am building hands-on Windows Server and Active Directory administration skills for enterprise System Administrator roles, along with using software tools like Tableau, Python, and R to perform data analysis in personal projects.
 
+Check out my portfolio website: robert-gorman.netlify.app
+
 ##  Projects
 
 ### [Active Directory Lab Portfolio](https://github.com/rbtgorman/active-directory-lab-portfolio)
