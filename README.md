@@ -1,4 +1,4 @@
-# Hey, I'm Robert 👋
+# Hello, I'm Robert 
 
 Check out my portfolio website: [robert-gorman.netlify.app](https://robert-gorman.netlify.app/)
 
