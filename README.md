@@ -8,7 +8,7 @@ I've been building out home labs and portfolio projects to sharpen my skills in 
 
 ## What I'm Working On
 
-**[Salesforce NPSP Fundraising Database](https://github.com/rbtgorman/salesforce-npsp-fundraising-database)** - Built a nonprofit database in Salesforce. $1.35M in mock donations, reports, dashboards. Broke a lot of stuff and documented the fixes.
+**[Salesforce NPSP Fundraising Database](https://github.com/rbtgorman/salesforce-npsp-fundraising-database)** - Built a mock nonprofit database in Salesforce. $1.35M in mock donations, reports, dashboards. Broke a lot of stuff and documented the fixes.
 
 **[Active Directory Lab](https://github.com/rbtgorman/active-directory-lab-portfolio)** - Home lab with Windows Server, AD, and PowerShell scripts for automating the boring stuff (user creation, password resets, health checks).
 
