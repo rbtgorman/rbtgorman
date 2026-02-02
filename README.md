@@ -4,8 +4,6 @@ Check out my portfolio website: [robert-gorman.netlify.app](https://robert-gorma
 
 I'm an IT professional looking to move into System Administrator or Data Analyst roles, ideally in healthcare or financial services. I've got a mix of skills that I think works well together - hands-on infrastructure experience with Windows Server and Active Directory, plus a data analytics background from my MS in Business Analytics (FinTech concentration) at Rutgers.
 
-What I'm going for: roles where I can manage enterprise infrastructure, automate repetitive tasks, and use data to make better decisions. I like building things that make people's jobs easier - whether that's a PowerShell script that handles user provisioning in seconds or a Salesforce database that actually tracks donations properly.
-
 I've been building out home labs and portfolio projects to sharpen my skills in Active Directory, PowerShell automation, and cloud platforms. Also picked up my AWS Cloud Practitioner cert to get more comfortable with cloud infrastructure.
 
 ## What I'm Working On
@@ -30,14 +28,10 @@ I've been building out home labs and portfolio projects to sharpen my skills in 
 
 ## About Me
 
-- 🎓 MS in Business Analytics (FinTech) - Rutgers
+- 🎓 MS in Business Analytics (FinTech) - Rutgers University
 - ☁️ AWS Cloud Practitioner
 - 📍 Philadelphia
-- ⚽ Big soccer fan
+- ⚽ Big sports fan, mainly soccer, football, and hockey
 - 📫 rbtgorman@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-gorman-638852149/)
-
----
-
-Open to System Administrator and Data Analyst roles, especially in healthcare IT. Let's chat.
