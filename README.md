@@ -2,7 +2,7 @@
 
 Check out my portfolio website: [robert-gorman.netlify.app](https://robert-gorman.netlify.app/)
 
-I'm an IT professional looking to move into System Administrator or Data Analyst roles, ideally in healthcare or financial services. I've got a mix of skills that I think works well together - hands-on infrastructure experience with Windows Server and Active Directory, plus a data analytics background from my MS in Business Analytics (FinTech concentration) at Rutgers.
+I'm an IT professional looking to move into System Administrator or Data Analyst roles, ideally in healthcare or financial services. I've got a mix of skills that I think works well together, hands-on infrastructure experience with Windows Server and Active Directory, plus a data analytics background from my MS in Business Analytics (FinTech concentration) at Rutgers.
 
 I've been building out home labs and portfolio projects to sharpen my skills in Active Directory, PowerShell automation, and cloud platforms. Also picked up my AWS Cloud Practitioner cert to get more comfortable with cloud infrastructure.
 
