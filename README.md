@@ -24,7 +24,7 @@ I've been building out home labs and portfolio projects to sharpen my skills in 
 
 **Web:** React, JavaScript, PHP, Node.js
 
-**Other:** Git, GCP, KVM, ServiceNow
+**Other:** Git, Terraform, AWS, GCP, KVM, ServiceNow
 
 ## About Me
 
