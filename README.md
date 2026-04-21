@@ -6,7 +6,7 @@ I'm an IT professional at Rutgers University transitioning into DevOps/Cloud Eng
 I'm currently focused on building robust home labs and data pipelines to sharpen my skills in automation, cloud architecture, and predictive modeling.
 
 ## What I'm Working On
-**[Hockey Predictive Modeling Website](https://github.com/rbtgorman/hockey_hacks) **Hockey Hacks: NHL xG Model & Data Pipeline - Developing a full-stack Expected Goals (xG) machine learning model. Engineered a PostgreSQL database to process 250k+ play-by-play events and trained a LightGBM classifier, achieving a 0.77 AUC. Implemented a strict 3-way temporal split (2022–2025) to prevent data leakage and ensure model calibration.
+**[Hockey Predictive Modeling Website](https://github.com/rbtgorman/hockey_hacks)** Hockey Hacks: NHL xG Model & Data Pipeline - Developing a full-stack Expected Goals (xG) machine learning model. Engineered a PostgreSQL database to process 250k+ play-by-play events and trained a LightGBM classifier, achieving a 0.77 AUC. Implemented a strict 3-way temporal split (2022–2025) to prevent data leakage and ensure model calibration.
 
 **[Active Directory Lab](https://github.com/rbtgorman/active-directory-lab-portfolio)** - Home lab with Windows Server, AD, and PowerShell scripts for automating the boring stuff (user creation, password resets, health checks).
 
