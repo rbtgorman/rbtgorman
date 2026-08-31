@@ -1,7 +1,7 @@
 ## Hello, I'm Robert Gorman
 Check out my portfolio website: [robert-gorman.netlify.app](https://robert-gorman.netlify.app/)
 
-I'm an IT professional at Rutgers University transitioning into DevOps/Cloud Engineer-related roles. I bridge the gap between hands-on infrastructure (Windows Server, Active Directory) and advanced data analytics, backed by my MS in Business Analytics (FinTech).
+I'm an IT professional at Rutgers University transitioning into DevOps/Data Engineer-related roles. I bridge the gap between hands-on infrastructure (Windows Server, Active Directory) and advanced data analytics, backed by my MS in Business Analytics (FinTech).
 
 I'm currently focused on building robust home labs and data pipelines to sharpen my skills in automation, cloud architecture, and predictive modeling.
 
